@@ -20,9 +20,10 @@ module.exports = {
       'green': '#13ce66',
       'black': '#191919',
       'full-black': '#000',
+      'white': '#fff',
     },
     fontFamily: {
-      sans: ['Inter', 'sans-serif'],
+      sans: ['Quantico', 'sans-serif'],
       monospace: ['Consolas', 'monospace'],
     },
     extend: {
